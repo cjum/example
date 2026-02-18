@@ -1,2 +1,5 @@
-const b = "task1";
-const c = 12233;
+const a = "task1";
+const c = 290;
+const d = 290;
+const e = "next";
+const f = "third";
